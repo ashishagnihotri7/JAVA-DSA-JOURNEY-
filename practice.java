@@ -105,10 +105,10 @@ public class practice {
         // int marks = sc.nextInt();
         // if (marks >= 90) {
         //     System.out.println("grade is A");
-        // } else if (marks > 70 || marks < 90) {
+        // } else if (marks > 70 && marks < 90) {
         //     System.out.println("grade is b");
 
-        // } else if (marks > 50 || marks < 70) {
+        // } else if (marks > 50 && marks < 70) {
         //     System.out.println("grade is c");
         // } else if (marks < 50) {
         //     System.out.println("you are fail");
@@ -117,7 +117,7 @@ public class practice {
         //     System.out.println("invalid marks");
         // }
         /////////////////////////////////////////////
-        // Q find largest of 3 number 
+        // Q find largest of 2 number 
         // Scanner sc = new Scanner(System.in);
         // System.out.println("enter first number ");
         // int a = sc.nextInt();
