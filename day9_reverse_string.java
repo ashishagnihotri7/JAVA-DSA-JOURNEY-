@@ -8,7 +8,7 @@ public class day9_reverse_string {
             int front = i;
             int back = sb.length() - 1 - i;
 
-            char frontChar = sb.charAt(front);
+            char frontChar = sb.charAt(front);  
             char backChar = sb.charAt(back);
 
             sb.setCharAt(front, backChar);
