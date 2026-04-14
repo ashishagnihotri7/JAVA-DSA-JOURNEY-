@@ -1,3 +1,4 @@
+// QUACTION : remove zero to last 
 public class day14_move_zero {
     public static void main(String[] args) {
 
