@@ -12,6 +12,7 @@ public class day15_element_exist_ornot {
             } else {
                 high = mid - 1;
             }
+            
         }
         return false;
     }
