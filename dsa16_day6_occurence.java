@@ -6,7 +6,7 @@ public class dsa16_day6_occurence {
         int target = 8;
         int first =-1;
         int last =-1;
-        for (int i = 0; i < arr.length - 1; i++) {
+        for (int i = 0; i < arr.length; i++) {
             if (arr[i] == target) {
                 if (first == -1) {
                     first = i;
