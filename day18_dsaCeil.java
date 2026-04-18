@@ -1,5 +1,5 @@
 // QUACTION : Ceil Value Ceil = smallest element jo target se bada ya equal ho (≥ target)
-public class day18_dsa8Ceil {
+public class day18_dsaCeil {
     public static int cnum(int arr[], int target) {
         int low = 0;
         int high = arr.length - 1;
