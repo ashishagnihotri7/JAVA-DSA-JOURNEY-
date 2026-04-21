@@ -1,6 +1,6 @@
-public class day21_dsa9_countoccur.java {
+public class day21_dsa9_countoccur {
 
-    public static void main(String[] args) {
+ public static void main(String[] args) {
 
         int arr[] = {1, 2, 4, 4, 4, 5, 6};
         int target = 4;
