@@ -1,6 +1,5 @@
 // QUACTION : count vovels in string
 public class day22_dsa_string5 {
-
     public static void main(String[] args) {
         String str = "hello world";
         int count = 0;
