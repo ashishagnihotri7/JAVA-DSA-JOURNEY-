@@ -1,3 +1,4 @@
+// QUACTION : check 1 number occure how many time 
 public class day21_dsa9_countoccur {
 
  public static void main(String[] args) {
