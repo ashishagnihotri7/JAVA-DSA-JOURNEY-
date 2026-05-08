@@ -1,5 +1,5 @@
 // QUACTION : count frequency of each character in a string 
-public class day28_dsa_string13 {
+public class day29_dsa_string13 {
     public static void main(String[] args) {
         // String str = "hello ";
         // for (int i = 0; i < str.length(); i++) {
