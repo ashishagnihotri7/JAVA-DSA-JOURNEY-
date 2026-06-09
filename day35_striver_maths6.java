@@ -1,3 +1,5 @@
+// find the greast common divisior
+
 import java.util.*;
 
 public class day35_striver_maths6 {

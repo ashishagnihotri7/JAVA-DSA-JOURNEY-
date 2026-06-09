@@ -1,9 +1,16 @@
 public class day34_striver_recursion {
+    static int count = 0;
+
     public static void print() {
-        System.out.println(1);
-        // print();
+        if (count == 3) {
+            return;
+        }
+        System.out.println(count);
+        count++;
+        print();
     }
     public static void main(String[] args) {
         print();
-  }
+
+    }
 }
