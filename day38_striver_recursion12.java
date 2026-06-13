@@ -1,3 +1,4 @@
+// CHECHK WEATHER A STRING IS PA;;INDROME OR NOT 
 public class day38_striver_recursion12 {
 
     public static boolean isPalindrome(String str, int i) {
